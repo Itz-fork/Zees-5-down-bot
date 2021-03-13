@@ -2,7 +2,7 @@ class script(object):
 
     START_TEXT = """Hey <b>{}</b> 😜️ ,
     
-I'm a simple bot to download **NON-DRM Protected** and **NON-Premium** Videos! 🙂️
+I'm a simple bot to download <b>NON-DRM Protected</b> and <b>NON-Premium</b> Videos! 🙂️
 
 Now Send Me Zee5 link I'll upload it to Telegram as File or Video. 😌️
 
