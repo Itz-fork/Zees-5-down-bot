@@ -30,7 +30,7 @@ def send_start(bot, update):
         chat_id=update.chat.id,
         text=script.START_TEXT.format(update.from_user.first_name),
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🔰️ Join My Channel 🔰️", url="https://t.me/NexaBotsUpdates")], [InlineKeyboardButton(text="⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"),
-                                                    InlineKeyboardButton(text="♻️ Share Me ♻️", url="https://t.me/share/url?url=Hi Guys Today I Found Best Telegram Channel Providing <b>Best and Free</b> Bots. Check it Now ❤️ <b>@NexaBotsUpdates</b>")]]),
+                                                    InlineKeyboardButton(text="♻️ More Bots ♻️", url="https://t.me/NexaBotsUpdates/8")]]),
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
