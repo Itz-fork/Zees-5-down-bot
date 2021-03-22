@@ -1,6 +1,8 @@
 ## Zee5 Downloader
 If you find any bugs, report at @TroJanzSupport
 
+## [Source Code](https://github.com/TroJanzHEX/Zee5-Downloader)
+
 **My Features**:
 
 👉 Upload as file/video from any NON-DRM Zee5 link
